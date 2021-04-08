@@ -9,4 +9,6 @@ The past hours are highlighted gray, the current hour red, and future hours gree
 
 ================================================================
 
+Screenshot of the live repo:
+
 ![Screenshot](https://i.ibb.co/fr0gRBz/jjdjjdjwd.png)
